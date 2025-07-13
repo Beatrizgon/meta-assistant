@@ -6,13 +6,14 @@ Este é um projeto web que apresenta um assistente de IA especializado em **Meta
 
 ## 🚀 Sobre o Projeto
 
-Este projeto foi desenvolvido como minha **primeira experiência prática com Inteligência Artificial**, durante um evento promovido pela [Rocketseat](https://www.rocketseat.com.br/). O foco do evento foi explorar novas tecnologias e incentivar a criação de soluções que utilizem IA de forma prática e acessível.
+Este projeto foi desenvolvido como minha **primeira experiência prática com Inteligência Artificial**, durante um evento promovido pela [Rocketseat](https://www.rocketseat.com.br/). O foco do evento foi explorar novas tecnologias e incentivar a criação de soluções que utilizem IA de forma prática e acessível. 
 
 O aprendizado envolveu:
 - Construção de interfaces com HTML e CSS
 - Manipulação de dados com JavaScript
 - Integração de modelos de IA com Gemini
 - Uso de boas práticas de layout e usabilidade
+- Uso de uma chave de API do Gemini
 
 ---
 
@@ -28,3 +29,8 @@ O aprendizado envolveu:
 - CSS3
 - JavaScript (Vanilla)
 - Gemini (IA)
+
+---
+
+![Interface do Meta Assistant](assets/screenshot.png)
+
