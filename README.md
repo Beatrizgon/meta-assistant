@@ -32,5 +32,13 @@ O aprendizado envolveu:
 
 ---
 
+## 🌐 Acesse online
+
+Você também pode testar o assistente diretamente no link:
+
+[https://ai-assistant-games.netlify.app/](https://ai-assistant-games.netlify.app/)
+
+---
+
 ![Interface do Meta Assistant](assets/screenshot.png)
 
