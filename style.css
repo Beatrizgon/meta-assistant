@@ -5,13 +5,15 @@
 }
 
 body {
+    min-height: 100vh;
     background-image: url("./assets/8aoVnb.png");
     background-repeat: no-repeat;
-    background-size: 100% auto;
-    background-position: top center;
+    background-size: cover;       /* mantém proporção */
+    background-position: center top;
     background-color: #080808;
     color: white;
 }
+
 
 body * {
     font-family: "inter";
@@ -28,13 +30,17 @@ header img {
 }
 
 main {
-    max-width: 36rem;
-    width: 90%;
-    margin: 3rem auto; /*funciona igual relógio com os valores, 1, 2, 3, 4 (cima, direita, baixo, esquerda)*/
-
+    min-height: calc(100vh - 5rem);
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    padding: 2rem;
 }
 
-section{
+
+section {
+    width: 100%;
+    max-width: 36rem;
     border-radius: 0.625rem;
     padding-top: 4px;
 }
@@ -158,4 +164,13 @@ button:disabled {
     50% {
         opacity: 0.5;
     }
+}
+
+form {
+    justify-content: center;
+}
+
+input,
+select {
+    width: 100%;
 }
